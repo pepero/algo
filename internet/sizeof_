@@ -1,0 +1,7 @@
+#include <iostream>
+void  main(void)
+{
+        char  *str[ ]={"China", "Japan", "America"};
+        cout << sizeof(str) << endl;  //??12
+}
+
