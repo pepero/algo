@@ -32,3 +32,4 @@ restore_ip:
 
 clean:
 	rm -rf $(TARGET)
+	rm *.o
